@@ -14,7 +14,7 @@ div {
 body {
   background-color: cornsilk;
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-device-width: 600px) {
   body {
     background-color: chocolate;
   }
