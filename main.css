@@ -19,3 +19,8 @@ body {
     background-color: chocolate;
   }
 }
+@media screen and (min-width: 600px) {
+  body {
+    background-color: chocolate;
+  }
+}
